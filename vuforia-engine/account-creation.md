@@ -1,3 +1,7 @@
+---
+icon: file-user
+---
+
 # Account creation
 
 To use this tool in Unity, you must first create an account on the following website:

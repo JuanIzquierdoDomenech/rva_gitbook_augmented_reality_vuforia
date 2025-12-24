@@ -1,3 +1,7 @@
+---
+icon: grid-round-5
+---
+
 # Ground Plane Detection
 
 This feature makes it possible to place synthetic content on any flat horizontal/vertical surface, without requiring a specific reference image. Examples include:

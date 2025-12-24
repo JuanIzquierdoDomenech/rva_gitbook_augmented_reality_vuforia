@@ -1,3 +1,7 @@
+---
+icon: plus
+---
+
 # Creating a Unity project with Vuforia
 
 ### **Importing Vuforia**

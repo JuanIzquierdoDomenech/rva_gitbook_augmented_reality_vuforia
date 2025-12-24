@@ -1,3 +1,7 @@
+---
+icon: kaaba
+---
+
 # Area Targets
 
 An Area Target in Vuforia is a special type of trackable that allows us to:

@@ -1,3 +1,7 @@
+---
+icon: file-image
+---
+
 # Image Targets
 
 <figure><img src="../../.gitbook/assets/mars_4_astronaut.jpg" alt=""><figcaption></figcaption></figure>
