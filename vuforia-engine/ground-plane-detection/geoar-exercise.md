@@ -378,7 +378,7 @@ public class GroundPlaneController : MonoBehaviour
     {
         // subscribe to interactive hit tests
         planeFinder.OnInteractiveHitTest.AddListener(HandleInteractiveHitTest);
-        planeFinder.HitTestMode = HitTestMode.AUTOMATIC;
+        planeFinder.HitTestMode = HitTestMode.AUTOMATIC; // Finds surfaces automatically, periodically
     }
 
     private void OnDisable()
