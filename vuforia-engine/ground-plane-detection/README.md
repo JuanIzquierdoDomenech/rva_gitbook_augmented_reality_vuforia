@@ -89,7 +89,7 @@ You can use the emulator image located at _Assets → Editor → Vuforia → Ima
 ### Result
 
 {% hint style="warning" icon="eyes" %}
-Make sure the "Minimum API Level" for Android in the Player Settings is set to 10,
+Make sure the "Minimum API Level" for Android in the Player Settings is set to 10.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/result_gp.gif" alt="" width="375"><figcaption></figcaption></figure>
