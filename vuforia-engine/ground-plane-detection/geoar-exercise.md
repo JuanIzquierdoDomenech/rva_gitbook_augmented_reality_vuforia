@@ -232,7 +232,7 @@ private static double CalculateDistance(Coordinates coords1, Coordinates coords2
 ```
 {% endcode %}
 
-{% embed url="https://claude.ai/public/artifacts/17f7d442-c2aa-4e5f-b0db-824123613d5b" %}
+{% embed url="https://claude.ai/artifact/Gcf7x9QfmQsSYt7us4oEk9" %}
 
 #### Hooking up the Close button
 
@@ -283,7 +283,7 @@ On iOS, you **must** provide a reason string for camera and location access:
   * Set **Camera Usage Description** (e.g. “Needed to display AR content.”).
   * Set **Location Usage Description** (e.g. “Needed to unlock AR content near your location.”).
 
-{% embed url="https://docs.unity3d.com/6000.3/Documentation/Manual/ios-authorizations-in-unity.html" %}
+{% embed url="https://docs.unity.com/en-us/engine/6000.6/manual/platform-specific/iphone/ios-developing/ios-authorizations-in-unity" %}
 
 These values end up in your app’s **Info.plist** as `NSCameraUsageDescription` and `NSLocationWhenInUseUsageDescription`, which iOS shows in permission dialogs.
 
@@ -309,7 +309,7 @@ Next, we'll integrate the **Vuforia Ground Plane** tracking strategy, which dete
 #### Create a Ground Plane Stage
 
 * Add _GameObject → Vuforia → Ground Plane → Ground Plane Stage_.
-  * Remember that the "_Ground Plane Stage"_ is analogous to an ImageTarget: it acts as the **parent** of your AR content.
+  * Remember that the "_Ground Plane Stage"_ is analogous to an ImageTarget: it acts as the **parent** of your AR content, so the content you place as its child will be the synthetic content of the AR experience.
 
 <figure><img src="../../.gitbook/assets/gpstage_geoar.png" alt="" width="375"><figcaption></figcaption></figure>
 
