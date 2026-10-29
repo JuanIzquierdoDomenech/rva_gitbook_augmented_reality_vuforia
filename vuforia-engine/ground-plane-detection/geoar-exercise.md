@@ -4,7 +4,7 @@ This exercise walks through creating a simple **Geo‑AR** app:
 
 * The app constantly reads the user’s GPS position.
 * When the user enters a given radius around a target location, a **“Show model”** button becomes available.
-* Pressing the button places a 3D model on a detected ground plane using **Vuforia Ground Plane Detection**.XR - Practice 08 - GeoAR
+* Pressing the button places a 3D model on a detected ground plane using **Vuforia Ground Plane Detection**.
 
 ***
 
